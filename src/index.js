@@ -45,4 +45,4 @@ fs.readdir(__dirname + "/bot/commands/", (err, files) => {
     });
 });
 
-client.login("TOKEN")
+client.login("OTYyMDg2OTM4NjM3MTExMzA2.YlCbSA.23qq-ULU3Rdeh_l5rTfkxEfdBFM")
